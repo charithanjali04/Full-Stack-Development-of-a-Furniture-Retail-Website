@@ -1,0 +1,46 @@
+
+      body{
+            font-size: 10;
+        
+        }
+        .container
+        {
+            width:550px;
+            margin:auto;
+            text-transform:uppercase;
+            border:1px solid black;
+            display:grid;
+            justify-content: center;
+            color: white;
+	    background-color: 
+           
+        }
+        input{
+            width:300px;
+            height:30px;
+            border-radius:10px;
+            padding:7px;
+        }
+        span{
+            color: red;
+            border-radius: 2px;
+            font-size: 15px;
+        }
+        button{
+            
+            margin:0px 0px 10px 20px;
+            padding: 2px;
+            width:60px;
+            background-color:orangered;
+            width:130px;
+            height:30px;
+            border-radius: 10px;
+        }
+        button:hover{
+            background-color:yellow;
+           
+        }
+        input:hover{
+            background-color: powderblue;
+        }
+

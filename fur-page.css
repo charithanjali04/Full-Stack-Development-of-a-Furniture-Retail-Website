@@ -1,0 +1,44 @@
+.pagination {
+
+clear:both;
+
+position:relative;
+
+font-size:11px;
+justify-content:center;
+
+}
+
+
+
+.pagination div, .pagination a {
+
+display:block;
+
+float:left;
+
+margin: 2px 2px 2px 0;
+
+padding:6px 9px 5px 9px;
+
+text-decoration:none;
+
+color: #ddd;
+
+background: #222;
+
+}
+
+
+
+.pagination .current{
+
+padding:6px 9px 5px 9px;
+
+font-weight: bold;
+
+background: #0950E8;
+
+}
+
+
